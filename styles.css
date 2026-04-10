@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: red solid 1px;
+}
+
+body{
+    background-color: #eee;
+    font-family: sans-serif;
+}
+.card{
+    background: white;
+    max-width: 600px;
+    padding: 30px;
+    margin: 40px auto 40px auto;
+}
